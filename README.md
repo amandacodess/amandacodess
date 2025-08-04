@@ -1,7 +1,7 @@
 ![Amanda's banner](banner-github.png)
 # 👋 Hi there, I'm Amanda Caroline Young!
 
-I'm a web development and blockchain enthusiast on a mission to turn curiosity into creation. Whether it's building digital identities, designing intuitive user interfaces, or crafting peaceful Minecraft villages full of lore — I love projects that blend *creativity with technology*.
+I'm a web development and blockchain enthusiast on a mission to turn curiosity into creation. Whether it's building digital identities, designing intuitive user interfaces — I love projects that blend *creativity with technology*.
 
 ## 🌿 About Me
 - 💻 I'm passionate about *front-end development*, *UI/UX design*, and *blockchain fundamentals*
@@ -44,10 +44,8 @@ Status: In Progress
 - Comfortable working independently and in collaborative environments  
 
 ## 🧩 Fun Facts
-- 🎮 I build elaborate Minecraft villages with lore, scrolls, and secret chambers — yes, really
-- 🐼 I love pandas more than most things
-- 🧠 I probably have a document or list for every idea I’ve ever had
-- ✍ I write lore that feels halfway between a fantasy novel and a tech spec
+- 🎮 When I’m not writing code, I’m building story-driven Minecraft villages with scrolls, secret chambers, and lore
+- 🧠 I like making lists of all the ideas I have
 
 ## 📫 Let's Connect!
 I'm always open to creative collaborations, dev talks, or fellow dreamers ✨  
