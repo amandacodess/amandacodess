@@ -1,3 +1,4 @@
+![Amanda's banner](banner.png)
 # 👋 Hi there, I'm Amanda Caroline Young!
 
 I'm a web development and blockchain enthusiast on a mission to turn curiosity into creation. Whether it's building digital identities, designing intuitive user interfaces, or crafting peaceful Minecraft villages full of lore — I love projects that blend *creativity with technology*.
