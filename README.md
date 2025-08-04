@@ -14,24 +14,25 @@ I'm a web development and blockchain enthusiast on a mission to turn curiosity i
 - *Special Interests*: Blockchain, identity systems, creative UI/UX
 
 ## 🚀 Projects
-*🌸 LilyLane*
+
+- *🌸 LilyLane*:
 A boutique-style *e-commerce website*  made for a floristry business as a college project with an elegant interface, smooth navigation, and responsive design.  
 Built with: HTML, CSS, JavaScript
 
-*📚 BookVista*
+- *📚 BookVista*:
 An online *bookstore platform* that allows users to browse, search, and add books to a cart and curates you a bookshelf with all your favorite books - you can remove and add as well. Designed with usability and clean layout in mind.
 Built with: HTML, CSS, JavaScript
 
-*🔒 Attendance Management System*
+- *🔒 Attendance Management System*:
 A decentralized *attendance tracking system* leveraging *blockchain technology* and *cloud storage* to ensure secure, transparent, and tamper-proof record-keeping.  
 Built with: Python, Blockchain, Cloud Integration
 
-*🌈 WasWeather*
+- *🌈 WasWeather*:
 A simple yet functional *weather app* that fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/).  
 Users can enter a city and get live temperature, humidity, and forecast info.  
 Built with: HTML, CSS, JavaScript, `API.weatherapi.com 
 
-*🫂 MyHugBunny*
+- *🫂 MyHugBunny*:
 (In Progress)
 A cozy and comforting *virtual hug website* featuring pandas and peaceful environments — designed to bring a smile to your screen.  
 Technologies: HTML, CSS, JavaScript  
