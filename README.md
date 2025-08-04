@@ -3,10 +3,10 @@
 I'm a web development and blockchain enthusiast on a mission to turn curiosity into creation. Whether it's building digital identities, designing intuitive user interfaces, or crafting peaceful Minecraft villages full of lore — I love projects that blend *creativity with technology*.
 
 ## 🌿 About Me
-- 💻 I'm passionate about *front-end development, **UI/UX design, and **blockchain fundamentals*
-- 🌐 Actively exploring *identity management, **cloud-connected apps, and **decentralized technologies*
+- 💻 I'm passionate about *front-end development*, *UI/UX design*, and *blockchain fundamentals*
+- 🌐 Actively exploring *identity management*, *cloud-connected apps*, and *decentralized technologies*
 - ✨ I aim to make digital experiences that are both *secure* and *soothing*
-- 📚 Currently deepening my skills in *HTML, **CSS, **JavaScript, and **Python*
+- 📚 Currently deepening my skills in *HTML*, *CSS*, *JavaScript*, and **Python*
 
 ## 🔧 Technical Skills
 - *Languages*: HTML, CSS, JavaScript, Python
