@@ -27,15 +27,8 @@ A decentralized *attendance tracking system* leveraging *blockchain technology* 
 Built with: Python, Blockchain, Cloud Integration
 
 - *🌈 WasWeather*:
-A simple yet functional *weather app* that fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/).  
-Users can enter a city and get live temperature, humidity, and forecast info.  
+A simple yet functional *weather app* that fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/). Users can enter a city and get live temperature, humidity, and forecast info.  
 Built with: HTML, CSS, JavaScript, `API.weatherapi.com 
-
-- *🫂 MyHugBunny*:
-(In Progress)
-A cozy and comforting *virtual hug website* featuring pandas and peaceful environments — designed to bring a smile to your screen.  
-Technologies: HTML, CSS, JavaScript  
-Status: In Progress
 
 ## 💬 Soft Skills
 - Strong communication & empathy  
